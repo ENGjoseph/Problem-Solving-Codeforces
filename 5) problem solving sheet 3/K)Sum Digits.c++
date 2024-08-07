@@ -10,8 +10,6 @@ int main()
     {
         cin >> t[i];
     }
-    string number;
-    cin >> number;
     long long sum = 0;
     for (int i = 0; i < n; i++)
     {
