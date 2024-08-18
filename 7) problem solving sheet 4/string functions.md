@@ -23,11 +23,34 @@ https://nitishhsinghhh.medium.com/understanding-lexicographic-order-in-programmi
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 to check if it is lower case
+
 {
+
 if (islower(s[i] == 1)
+
 }
+
 to check if it is upper case
+
 {
+
 if (isupper(s[i] == 1)
+
+}
+
+to change from lower case to upper case
+
+{
+
+s[i] = toupper(s[i]);
+
+}
+
+to change from upper case to lower case
+
+{
+
+s[i] = tolower(s[i]);
+
 }
 --------------------------------------------------------------------------------------------------------------------------------------------------
