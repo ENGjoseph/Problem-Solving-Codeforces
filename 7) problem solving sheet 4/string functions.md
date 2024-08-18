@@ -17,3 +17,7 @@ getline(cin, string_name);
 References:
 https://stackoverflow.com/questions/18786575/using-getline-in-c
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+Lexicographical:
+https://nitishhsinghhh.medium.com/understanding-lexicographic-order-in-programming-with-c-6d283dce5233#:~:text=In%20lexicographic%20order%2C%20the%20comparison,Unicode%20values%20of%20the%20characters.
+--------------------------------------------------------------------------------------------------------------------------------------------------
